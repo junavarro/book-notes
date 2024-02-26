@@ -1,2 +1,4 @@
-# book-notes
-My notes about the books I read.
+# Notes about the books a read
+
+
+# Computer Science
