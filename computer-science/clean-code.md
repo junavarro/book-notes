@@ -22,3 +22,5 @@
   - Methods in Classes:
       - Use Java Bean convention
   - Use one word per concep rule. Use one of this: Driver, Controller, Manager.      
+
+## Chapter 3:
